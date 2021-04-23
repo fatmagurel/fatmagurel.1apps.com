@@ -1,0 +1,28 @@
+@charset "utf-8";
+body {
+	background-image: url(website-background.jpg);
+	background-repeat: repeat;
+}
+#bas {
+	font-size: 36px;
+	line-height: 80px;
+	font-weight: bold;
+	background-color: #3E3B3B;
+	text-align: center;
+	height: 80px;
+	width: 980px;
+	margin-top: 20px;
+	margin-left: 150px;
+	color: #855EC4;
+}
+#icerik {
+	font-size: 18px;
+	font-weight: bold;
+	background-color: #393C5E;
+	height: auto;
+	width: 980px;
+	margin-top: 10px;
+	margin-left: 150px;
+	text-align: center;
+	color: #FFFFFF;
+}

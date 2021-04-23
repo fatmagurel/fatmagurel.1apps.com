@@ -1,0 +1,14 @@
+body {
+	font-size: 24px;
+	font-weight: bold;
+	text-align: right;
+	float: left;
+	height: auto;
+	width: 980px;
+	margin-top: 20px;
+	margin-left: 150px;
+	border: 5px 5 #090808;
+}
+body {
+	background-color: #0B9BF7;
+}

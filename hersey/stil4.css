@@ -1,0 +1,53 @@
+@charset "utf-8";
+body {
+	background-color: #AC0609;
+}
+#bas {
+	height: 80px;
+	width: 980px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+#bas {
+	text-align: center;
+	line-height: 80px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: 36px;
+	font-weight: bold;
+	background-color: #FFFFFF;
+	margin-left: 150px;
+}
+#icerik {
+	background-color: #FFFFFF;
+	text-align: center;
+	height: auto;
+	width: 980px;
+	margin-top: 10px;
+	margin-left: 150px;
+}
+#icerik {
+	font-weight: bold;
+	line-height: 20px;
+}
+#img {
+	float: left;
+	height: 80px;
+	width: 100px;
+}
+#icerik #img {
+	margin-top: 130px;
+}
+#img {
+	float: left;
+	height: 100px;
+	width: 200px;
+}
+#icerik #img {
+	width: 160px;
+	height: 200px;
+}
+#img {
+	float: left;
+	height: 200px;
+	width: 160px;
+}

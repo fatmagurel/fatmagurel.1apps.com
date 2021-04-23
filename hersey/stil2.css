@@ -1,0 +1,103 @@
+body {
+	background-image: url(arkaplan2.jpg);
+	background-repeat: repeat;
+}
+#bas {
+	background-color: #8F8989;
+	text-align: center;
+	height: 150px;
+	width: 980px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+#bas {
+	height: 100px;
+	width: 980px;
+}
+#bas {
+	line-height: 100px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 36px;
+	font-weight: bold;
+	color: #982A2C;
+	margin-left: 150px;
+}
+#icerik {
+	background-color: #A994B5;
+	height: 200px;
+	width: 980px;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+#icerik {
+	text-align: center;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	margin-left: 150px;
+}
+#jalebi {
+	background-color: #E99B07;
+	float: left;
+	height: auto;
+	width: 485px;
+	margin-top: 10px;
+	margin-left: 150px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	text-align: center;
+	color: #FD0004;
+}
+#resim {
+	float: left;
+	height: 200px;
+	width: 200px;
+}
+#jalebi #resim img {
+	float: left;
+}
+#butonf {
+	float: left;
+	height: 20px;
+	width: 50px;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+#ladoo {
+	background-color: #E3AC76;
+	float: left;
+	height: auto;
+	width: 485px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+#ladoo {
+	background-color: #A0D96B;
+	float: left;
+	height: auto;
+	width: 485px;
+	margin-top: 10px;
+	margin-left: 10px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-weight: bold;
+	color: #074177;
+	text-align: center;
+}
+#lad {
+	float: left;
+	height: 200px;
+	width: 200px;
+}
+#fazla {
+	float: left;
+	height: 220px;
+	width: 980px;
+	margin-top: 10px;
+	margin-left: 150px;
+	background-color: #873D3E;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: 20px;
+	text-align: center;
+	line-height: 100px;
+}

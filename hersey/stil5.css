@@ -1,0 +1,90 @@
+@charset "utf-8";
+body {
+	background-image: url(Holi-le-festival-des-couleurs-Inde-1000x666.jpg);
+	background-repeat: repeat;
+}
+#bas {
+	background-color: #07C8F0;
+	height: 100px;
+	width: 980px;
+	margin-top: 20px;
+	margin-left: 150px;
+	font-size: 24px;
+	line-height: 150px;
+	font-weight: bold;
+	color: #151414;
+	text-align: center;
+}
+#bas {
+	height: 80px;
+}
+#bas {
+	line-height: 80px;
+}
+#icerik {
+	font-size: 18px;
+	font-weight: bold;
+	background-color: #DF6163;
+	text-align: center;
+	height: auto;
+	width: 980px;
+	margin-top: 10px;
+	margin-left: 150px;
+}
+#resim {
+	float: left;
+	height: 315px;
+	width: 315px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+#icerik #resim {
+	height: 236px;
+	width: 284px;
+}
+#diger {
+	float: left;
+	height: 300px;
+	width: 250px;
+}
+#diger {
+	float: right;
+	height: 300px;
+	width: 250px;
+}
+#icerik p {
+	line-height: 25px;
+}
+#icerik div #diger img {
+	margin-top: 10px;
+	margin-right: 20px;
+}
+#icerik div #diger div img {
+}
+#diger {
+	float: right;
+	height: 300px;
+	width: 250px;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+#icerik div #diger {
+	margin-top: 10px;
+}
+#diger {
+	float: right;
+	height: 300px;
+	width: 250px;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+#diger {
+	float: right;
+	height: 300px;
+	width: 250px;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+#icerik div p {
+	text-align: center;
+}

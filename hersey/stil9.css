@@ -1,0 +1,53 @@
+@charset "utf-8";
+body {
+	background-image: url(web_arkaplan-8.jpg);
+	background-repeat: repeat;
+	height: auto;
+	width: 980px;
+	margin-top: 40px;
+	margin-left: 150px;
+}
+body div {
+	background-color: #4B4343;
+}
+#bas {
+	background-color: #635454;
+	height: 350px;
+	width: 980px;
+	margin-top: 100px;
+	margin-left: 150px;
+	text-align: center;
+}
+#resim {
+	float: left;
+	height: 350px;
+	width: 300px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+#resim {
+	float: left;
+	height: 150px;
+	width: 200px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+#resim {
+	height: 300px;
+	width: 250px;
+}
+#icerik {
+	float: right;
+	height: 250px;
+	width: 300px;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+#icerik {
+	float: right;
+	height: 300px;
+	width: 600px;
+	margin-top: 10px;
+	margin-right: 10px;
+	color: #050F4A;
+}
